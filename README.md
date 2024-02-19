@@ -1,4 +1,4 @@
-👋 Hi, I’m @Ele96!
+# ─── ✩₊˚.⋆ Hello there! I’m @Ele96 👋 ⋆⁺₊✧ ───
 
 🖥️ I’m currently learning coding.
 
