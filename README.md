@@ -1,7 +1,9 @@
 👋 Hi, I’m @Ele96!
 
-📊 I’m interested in Data Analysis, expecially applied to Biology🌱🦊🧬 
+Main interest: 
+📊 Data Analysis, 
+🌱🦊🧬 Biology, 
+✏️ Graphic design,
+🗣️ Online communication.
 
-✏️ Other interest: Graphic design, websites, online communication🗣️
-
-🖥️ I’m currently learning coding
+🖥️ I’m currently learning coding.
