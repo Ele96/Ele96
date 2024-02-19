@@ -8,7 +8,7 @@ Ele96 = {
       firstName: "Eleonora",
       pronouns: "she" | "her",
       code: [Python, MySQL],
-      tools: [Jupyter Notebooks, Pandas, Matplotlib, Seaborn, Power BI],
+      tools: [Jupyter Notebooks, Pandas, Matplotlib, Seaborn, PowerBI],
       interest: {
             📊: "Data Analysis", 
             🌱🦊🧬: "Biology", 
