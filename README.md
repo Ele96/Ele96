@@ -15,7 +15,7 @@ Ele96 = {
             ✏️: "Graphic Design",
             🗣️: "Online communication"
       },
-       favourites: {
+      favourites: {
             📙: "The call of the wild",
             🏵️: "Lily",
             🎨: "Orange",
