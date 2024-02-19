@@ -17,7 +17,8 @@ Ele96 = {
       },
        favourites: {
             📙: "The call of the wild",
-            🏵️: "Lily"
-            🎨: "Orange"
+            🏵️: "Lily",
+            🎨: "Orange",
+            🐕‍🦺: "Dog training"
       }
 ```
