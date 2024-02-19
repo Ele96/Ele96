@@ -12,7 +12,7 @@ Ele96 = {
       interest: {
             📊: "Data Analysis", 
             🌱🦊🧬: "Biology", 
-            ✏️: "Design",
+            ✏️: "Graphic Design",
             🗣️: "Online communication"
       },
        favourites: {
